@@ -1,0 +1,4 @@
+{
+  "name": "@acme-inc/utils",
+  "main": "./index.js"
+}
